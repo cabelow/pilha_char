@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554071819 source:c:\codeblocks\pilhachar\pilhachar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilhaChar.h"
+
+1554071656 c:\codeblocks\pilhachar\pilhachar\pilhachar.h
+
+1554071656 source:c:\codeblocks\pilhachar\pilhachar\pilhachar.c
+	<stdlib.h>
+	<string.h>
+	"pilhaChar.h"
+
